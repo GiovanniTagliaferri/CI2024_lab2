@@ -26,4 +26,4 @@
 
 ### Genetic algorithm: 59910.79
 
-> **Nota:** Due to excessive computational time, the number of generations for running the algorithm has been reduced to improve performance. 
+> **Nota:** Due to excessive computational time, the number of generations for running the algorithm has been reduced it. 
